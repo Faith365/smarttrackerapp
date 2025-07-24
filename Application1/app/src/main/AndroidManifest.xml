@@ -42,7 +42,7 @@
         <!-- Google Maps API Key: Replace YOUR_API_KEY_HERE with your actual key -->
         <meta-data
             android:name="com.google.android.geo.API_KEY"
-            android:value="AIzaSyBeEdMOFyYES0yAagfChtKYpsV1kRbsCHU" />
+            android:value="your API goes here" />
 
         <meta-data
             android:name="androidx.credentials.RelyingParty"
