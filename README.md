@@ -1,6 +1,6 @@
 # SmartTrackerApp 📱🔐
 
-**SmartTrackerApp** is a modern Android application designed to intelligently track and recover lost or stolen Android devices — even under extreme conditions like factory resets, offline mode, or SIM swaps.
+**SmartTrackerApp** is a modern Android application designed to intelligently track and recover lost or stolen Android devices, even under extreme conditions like factory resets, offline mode, or SIM swaps.
 
 This system enhances traditional tracking solutions by integrating AI-powered predictive analysis, multi-user FIDO2/WebAuthn authentication, and stealth background monitoring.
 
@@ -88,7 +88,7 @@ User Device (stolen) --> Cloud Server --> Web Dashboard (user/admin)
 ### Steps
 1. Clone this repo:
    ```bash
-   git clone https://github.com/yourusername/smarttrackerapp.git
+   git clone https://github.com/Faith365/smarttrackerapp.git
    ```
 2. Open in Android Studio
 3. Add your `google-services.json` to the `/app` folder
@@ -236,4 +236,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## 😋 Contact
 
-For contributions, suggestions or issues, please open an [Issue](https://github.com/yourusername/smarttrackerapp/issues) or submit a Pull Request./issues) or submit a Pull Request.
+For contributions, suggestions or issues, please open an [Issue](https://github.com/Faith365/smarttrackerapp/issues) or submit a Pull Request./issues) or submit a Pull Request.
