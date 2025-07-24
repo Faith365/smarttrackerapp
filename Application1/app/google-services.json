@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "822331489383",
+    "project_id": "application1-18b73",
+    "storage_bucket": "application1-18b73.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:822331489383:android:b329fba382b89b9f0468c2",
+        "android_client_info": {
+          "package_name": "com.example.application1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeEdMOFyYES0yAagfChtKYpsV1kRbsCHU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:822331489383:android:ba1cebd17f97e8290468c2",
+        "android_client_info": {
+          "package_name": "com.smarttracker.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeEdMOFyYES0yAagfChtKYpsV1kRbsCHU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
